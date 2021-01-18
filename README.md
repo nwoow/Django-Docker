@@ -7,7 +7,7 @@ Django App for local Development
 
 To run migation use this command:
 
-      docker-compose run web /usr/local/bin/python manage.py migrate
+     docker-compose run web /usr/local/bin/python manage.py migrate
 
 You can see all the swagger endpoint:
 
