@@ -5,7 +5,7 @@ Django App for local Development
     docker-compose up -d --build
 
 
-To run migation use this command:
+To run migration use this command:
 
      docker-compose run web /usr/local/bin/python manage.py migrate
 
